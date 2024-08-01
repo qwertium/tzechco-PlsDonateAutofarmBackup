@@ -862,7 +862,7 @@ if game:GetService('CoreGui'):FindFirstChild('RobloxPromptGui') then
 	end)
 end
 
-local Window = library:AddWindow("@szze | 01.08 updated - check discord",
+local Window = library:AddWindow("@szze | 01.08 modded - spin altered by @QWERTY",
   {
 	main_color = Color3.fromRGB(80, 80, 80),
 	min_size = Vector2.new(560, 563),
